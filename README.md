@@ -24,7 +24,7 @@ Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀
 <br />
 <br />
 
-<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/img/clonstagramsignupmin.png" />
+<img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
 ### Donde me puedes encontrar
 
