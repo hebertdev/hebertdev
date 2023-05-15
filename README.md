@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hebert villafuerte</h1>
 <h3 align="center">A passionate fullstack developer from Peru</h3>
 
-- 🔭 I’m currently working on [Hebertdev](hebertdev.net)
+- 🔭 I’m currently working on [Hebertdev](https://hebertdev.net)
 
-- 👨‍💻 All of my projects are available at [hebertdev.net/portfolio](hebertdev.net/portfolio)
+- 👨‍💻 All of my projects are available at [hebertdev.net/portfolio](https://hebertdev.net/portfolio)
 
-- 📝 I regularly write articles on [hebertdev.net/blog](hebertdev.net/blog)
+- 📝 I regularly write articles on [hebertdev.net/blog](https://hebertdev.net/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
