@@ -1,37 +1,20 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Hebert villafuerte</h1>
+<h3 align="center">A passionate fullstack developer from Peru</h3>
 
-<a href="https://twitter.com/hebertdev1">
-  <img align="left" alt="hebert villafuerte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+- 🔭 I’m currently working on [Hebertdev](hebertdev.net)
 
-<a href="https://www.linkedin.com/in/hebertdev/">
-  <img align="left" alt="hebertdev1 LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 👨‍💻 All of my projects are available at [hebertdev.net/portfolio](hebertdev.net/portfolio)
 
-<a href="https://www.instagram.com/hebertdev1/">
-  <img align="left" alt="Hebertdev1 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+- 📝 I regularly write articles on [hebertdev.net/blog](hebertdev.net/blog)
 
-<a href="https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q">
-  <img align="left" alt="Hebertdev1 Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/hebertdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hebertdev" height="30" width="40" /></a>
+<a href="https://twitter.com/hebertdev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hebertdev1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hebertdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebertdev" height="30" width="40" /></a>
+<a href="https://instagram.com/hebertdev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hebertdev1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hebertdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hebertdev" height="30" width="40" /></a>
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
-
-<br />
-
-Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
-<br />
-<br />
-
-<img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-
-### Donde me puedes encontrar
-
-_Personal_
-
-- :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-- :star::blush: Mi sitio web **[Works](https://hebertdev.space)** :v:
-- :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/hebertdev1)** :v:
-- :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/hebertdev1)** :v:
-- :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/hebertdev1)** :v:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
